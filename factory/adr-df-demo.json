@@ -1,0 +1,14 @@
+{
+	"name": "adr-df-demo",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad72264c-a25a-43d6-9bcd-7b43ed8e3e0a",
+		"tenantId": "ae41b245-429f-4da1-bf4d-03e77359cd31"
+	}
+}

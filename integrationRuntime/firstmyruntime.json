@@ -1,0 +1,6 @@
+{
+	"name": "firstmyruntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
